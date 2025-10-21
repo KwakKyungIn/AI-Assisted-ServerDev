@@ -188,8 +188,8 @@ void Room::Broadcast(SendBufferRef sendBuffer)
 ### 🖼️ 참고 시각자료
 
 아래 이미지는 개선 후 측정된 실제 로그 테이블 예시입니다.
+![Broadcast Latency After](./assets/image_1.jpg)
 
-링크 추가예정
 ---
 
 ## 📘 5) 기술적 분석
